@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "regions": ["hnd1"],
+  "regions": ["kix1"],
   "builds": [
     { "src": "server.js","use": "@vercel/node" },
     { "src": "lib/**","use": "@vercel/static" },
